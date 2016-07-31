@@ -42,7 +42,7 @@ google_analytics:
 # Sharing settings
 sharing:
   twitter:    true
-  facebook:   true
+  facebook:   false
   gplus:      true
   linkedin:   true
 
