@@ -14,7 +14,7 @@ Hoy es mi trabajo y la programación quedó solo como hobbie.
 
 [sysadming@protonmail.com](mailto:sysadming@protonmail.com)
 (PGP [6C59E2D3](http://pgp.mit.edu/pks/lookup?op=get&search=0xEF396FA16C59E2D3)
-Fingerprint=90C1 9FD6 1B0F 9976 634D  5CB8 EF39 6FA1 6C59 E2D3)
+90C19FD61B0F9976634D5CB8EF396FA16C59E2D3)
 
 [Twitter](https://twitter.com/skkugga)
 
