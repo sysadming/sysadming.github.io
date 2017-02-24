@@ -6,9 +6,9 @@ permalink: /about/
 
 Soy profesional de IT y aficionado a la programación.
 
-Compenzé a programar cuando tenía unos 16 años. La programación fue mi fuente de ingresos durante algunos años. 
+Comencé a programar cuando tenía unos 16 años. La programación fue mi fuente de ingresos durante algunos años. 
 La vida me fue llevando por el camino de los servidores, las comunicaciones y la seguridad de infraestructuaras IT.
-Hoy es mi trabajo y la programación quedó solo como hobbie.
+Hoy es mi trabajo y la programación quedó solo como hobby.
 
 ### Contacto
 
